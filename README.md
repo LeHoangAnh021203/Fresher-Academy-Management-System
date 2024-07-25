@@ -5,3 +5,5 @@ Human resource management software
   <img src="Fresher.png" width=800><br/>
   <i>Demo</i>
 </p>
+
+#Note: Create account on swagger then Sign in
